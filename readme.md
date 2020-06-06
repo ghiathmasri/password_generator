@@ -6,9 +6,10 @@ genpass='Python3 <<<"file path">>>/password.py'
 
 USE: 
 
-> genpass <length of password>
+> genpass "length of password"
 
-e.g., > genpass 10
+e.g., 
+> genpass 10
 
 this will output "Password is saved to your clipboard" 
 
