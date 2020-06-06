@@ -2,7 +2,7 @@ download password.py file and put it in your prefered location
 
 On mac add this line to your .zshrc file 
 
-genpass='Python3 <<<file path>>>/password.py'
+genpass='Python3 <<<"file path">>>/password.py'
 
 USE: 
 
